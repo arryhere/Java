@@ -5,7 +5,7 @@
 //import java.util.ArrayList;
 //import java.util.ListIterator;
 //
-//public class jcf_7_ArrayList_Iterate_5 {
+//public class jcf_07_ArrayList_Iterate_5 {
 //    public static void arraylist5(){
 //        List<String> names = new ArrayList<>();
 //        names.add("Rahul");

@@ -4,7 +4,7 @@
 //import java.util.Arrays;
 //import java.util.Collections;
 //
-//public class jcf_9_compareArrayList {
+//public class jcf_09_compareArrayList {
 //    public static void compareArrayList(){
 //        ArrayList<String> a1 = new ArrayList<>(Arrays.asList("A","B","C","D","F"));
 //        ArrayList<String> a2 = new ArrayList<>(Arrays.asList("A","B","C","D","E","F"));

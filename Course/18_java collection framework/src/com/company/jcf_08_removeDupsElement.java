@@ -3,7 +3,7 @@
 //import java.util.*;
 //import java.util.stream.Collectors;
 //
-//public class jcf_8_removeDupsElement {
+//public class jcf_08_removeDupsElement {
 //    public static void rde(){
 //        List<Integer> num = new ArrayList<>(Arrays.asList(1,2,3,4,5,6,7,8,9,0,1,2,3,4,5,6,7,8,9));
 //        Set<Integer> set = new LinkedHashSet<>(num);

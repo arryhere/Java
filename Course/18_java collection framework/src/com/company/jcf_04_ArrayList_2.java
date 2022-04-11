@@ -5,7 +5,7 @@
 //import java.util.Collections;
 //import java.util.List;
 //
-//public class jcf_4_ArrayList_2 {
+//public class jcf_04_ArrayList_2 {
 //    public static void arraylist2(){
 //         List<String> languages = new ArrayList<String>();
 //         languages.add("java");

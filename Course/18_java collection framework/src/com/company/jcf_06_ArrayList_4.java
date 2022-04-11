@@ -17,7 +17,7 @@
 //    }
 //}
 //
-//public class jcf_6_ArrayList_4 {
+//public class jcf_06_ArrayList_4 {
 //    public static void arraylist4(){
 //        Employee e1 = new Employee("Rahul",34,"CSE",1);
 //        Employee e2 = new Employee("Divya",23,"Electronics",2);

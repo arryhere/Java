@@ -4,7 +4,7 @@
 //import java.util.Arrays;
 //import java.util.Iterator;
 //
-//public class jcf_3_ArrayList_1 {
+//public class jcf_03_ArrayList_1 {
 //    public static void arraylist1(){
 //        ArrayList<Object> a = new ArrayList<>(33);
 //        a.add(34);

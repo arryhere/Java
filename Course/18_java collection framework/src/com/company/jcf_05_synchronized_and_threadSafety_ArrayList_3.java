@@ -6,7 +6,7 @@
 //import java.util.List;
 //import java.util.concurrent.CopyOnWriteArrayList;
 //
-//public class jcf_5_synchronized_and_threadSafety_ArrayList_3 {
+//public class jcf_05_synchronized_and_threadSafety_ArrayList_3 {
 //    public static void main(String[] args) {
 //
 //        //1. Collection.synchronizedList
