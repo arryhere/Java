@@ -1,0 +1,3 @@
+This is our first string in hello.txt !
+End of file 007
+22342
