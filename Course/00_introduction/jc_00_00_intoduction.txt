@@ -1,0 +1,65 @@
+﻿
+•   Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. 
+    It is a widely used robust technology.
+
+•   Java is a programming language and a platform. 
+    Java is a high level, robust, object-oriented and secure programming language.
+
+•   Java was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995. 
+    James Gosling is known as the father of Java. 
+    Before Java, its name was Oak. 
+    Since Oak was already a registered company, so James Gosling and his team changed the name from Oak to Java.
+
+•   Platform : Any hardware or software environment in which a program runs, is known as a platform. 
+    Since Java has JRE (Java™ runtime environment) and API (Application programming interface), it is called a platform.
+
+•   According to Sun, 3 billion devices run Java. There are many devices where Java is currently used. Some of them are as follows :
+    • Desktop Applications such as acrobat reader, media player, antivirus, etc.
+    • Web Applications such as irctc.co.in, javatpoint.com, etc.
+    • Enterprise Applications such as banking applications.
+    • Mobile
+    • Embedded System
+    • Smart Card
+    • Robotics
+    • Games, etc.
+
+•   Types of Java Applications : 
+    There are mainly 4 types of applications that can be created using Java programming:
+
+    • Standalone Application - 
+    Standalone applications are also known as desktop applications or window-based applications. 
+    These are traditional software that we need to install on every machine. 
+    Examples of standalone application are Media player, antivirus, etc. 
+    AWT(Abstract Window Toolkit) and Swing are used in Java for creating standalone applications.
+
+    • Web Application - 
+    An application that runs on the server side and creates a dynamic page is called a web application. 
+    Currently, Servlet, JSP, Struts, Spring, Hibernate, JSF, etc. technologies are used for creating web applications in Java.
+
+    • Enterprise Application - 
+    An application that is distributed in nature, such as banking applications, etc. is called an enterprise application. 
+    It has advantages like high-level security, load balancing, and clustering. In Java, EJB is used for creating enterprise applications.
+
+    • Mobile Application - 
+    An application which is created for mobile devices is called a mobile application. 
+    Currently, Android and Java ME(Java Platform, Micro Edition) are used for creating mobile applications.
+
+•   Java Platforms / Editions
+    There are 4 platforms or editions of Java :
+
+    • Java SE (Java Standard Edition) -
+    It is a Java programming platform. 
+    It includes Java programming APIs such as java.lang, java.io, java.net, java.util, java.sql, java.math etc. 
+    It includes core topics like OOPs, String, Regex, Exception, Inner classes, Multithreading, I/O Stream, Networking, AWT, Swing, Reflection, Collection, etc.
+
+    • Java EE (Java Enterprise Edition) -
+    It is an enterprise platform that is mainly used to develop web and enterprise applications. 
+    It is built on top of the Java SE platform. It includes topics like Servlet, JSP, Web Services, EJB, JPA, etc.
+
+    • Java ME (Java Micro Edition) -
+    It is a micro platform that is dedicated to mobile applications.
+
+    • JavaFX -
+    JavaFX is a Java library used to develop Desktop applications as well as Rich Internet Applications (RIA). 
+    The applications built in JavaFX, can run on multiple platforms including Web, Mobile and Desktops.
+    It uses a lightweight user interface API.
