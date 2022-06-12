@@ -1,7 +1,9 @@
+
 // Write a program to calculate percentage of a given student in cbse board exam. 
 // His marks from 5 subjects must be taken from the keyboard. Marks out of 100.
 
-// package com.company;
+package jc_01_practice_questions;
+
 import java.util.Scanner;
 
 public class pr_01_01 {

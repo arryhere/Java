@@ -4,15 +4,15 @@
 
 • Primitive Data Types - 
 
-    Data Type	Default Value	Default size
-    boolean	    false	        1 bit
-    char	    '\u0000'	    2 byte
-    byte	    0	            1 byte
-    short	    0	            2 byte
-    int	        0	            4 byte
-    long	    0L	            8 byte
-    float	    0.0f	        4 byte
-    double	    0.0d	        8 byte
+    Data Type	Default Value	Default size    Description
+    boolean	    false	        1 bit           Stores true or false values
+    char	    '\u0000'	    2 byte          Stores a single character/letter or ASCII values
+    byte	    0	            1 byte          Stores whole numbers from -128 to 127
+    short	    0	            2 byte          Stores whole numbers from -32,768 to 32,767
+    int	        0	            4 byte          Stores whole numbers from -2,147,483,648 to 2,147,483,647
+    long	    0L	            8 byte          Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+    float	    0.0f	        4 byte          Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits
+    double	    0.0d	        8 byte          Stores fractional numbers. Sufficient for storing 15 decimal digits
 
 */
 

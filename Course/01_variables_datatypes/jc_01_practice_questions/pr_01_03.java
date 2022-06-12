@@ -1,5 +1,7 @@
 // 2. Write a program to calculate cgpa using marks of three subjects. (out of 100)
 
+package jc_01_practice_questions;
+
 import java.util.Scanner;
 
 public class pr_01_03 {

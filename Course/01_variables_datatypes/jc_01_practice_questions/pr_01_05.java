@@ -1,5 +1,7 @@
 // 4. Write a program to convert kilometers to miles.
 
+package jc_01_practice_questions;
+
 import java.util.Scanner;
 
 public class pr_01_05 {

@@ -1,5 +1,7 @@
 // 1. Write a program to sum 3 number sin java.
 
+package jc_01_practice_questions;
+
 import java.util.Scanner;
 
 public class pr_01_02 {

@@ -1,5 +1,7 @@
 // 5. Write a program to detect whether a number entered by the user is an integer or not.
 
+package jc_01_practice_questions;
+
 import java.util.Scanner;
 
 public class pr_01_06 {

@@ -2,17 +2,16 @@ package com.company;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.LinkedHashSet;
 import java.util.Scanner;
 
 public class test {
-        public static void main(String[] args) {
-            String s = "123456789";
-            int chunk = 2;
-            ArrayList<String> as = new ArrayList<>();
-
-            for(int i=0; i<s.length() ; i=i+chunk){
-                as.add(s.substring(i, Math.min(s.length(), i+chunk)));
-            }
-            System.out.println(as);
-        }
+    public static double area(double base, double height){
+        double area = ((double)1/2)*base*height;
+        System.out.println(area);
+        return area;
+    }
+    public static void main(String[] args) {
+        System.out.println(area(4, 5));
+    }
 }
