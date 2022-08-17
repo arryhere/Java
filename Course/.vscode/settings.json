@@ -1,7 +1,18 @@
 {
-    "java.project.sourcePaths": [
-        "03_strings",
-        "02_operators",
-        "01_variables_datatypes"
-    ]
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "trailing",
+  "editor.rulers": [
+    120
+  ],
+  "java.project.sourcePaths": [
+    "96_practice-set",
+    "100_test",
+    "05_conditionals",
+    "04_Numbers",
+    "03_operators",
+    "02_user-input",
+    "01_variables_datatypes",
+    "00_intro",
+    "06_loops"
+  ]
 }
