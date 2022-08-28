@@ -7,12 +7,14 @@
   "java.project.sourcePaths": [
     "96_practice-set",
     "100_test",
+    "07_arrays",
+    "06_loops",
     "05_conditionals",
     "04_Numbers",
     "03_operators",
     "02_user-input",
     "01_variables_datatypes",
     "00_intro",
-    "06_loops"
+    "08_strings"
   ]
 }
