@@ -57,13 +57,37 @@ public class jc_08_02_string_methods {
 
     String str = "Java";
     str = str.concat(" is the best programming language !").concat(" Who is C# ?");
-    System.out.println(str);
+    System.out.println(str); // Java is the best programming language ! Who is C# ?
+  }
+
+  public static void contains() {
+    /*
+     * The Java String class contains() method searches the sequence of characters
+     * in this string
+     * It returns true if the sequence of char values is found in this string
+     * otherwise returns false
+     * 
+     * The contains() method should not be used to search for a character in a
+     * string. Doing so results in an error
+     * https://stackoverflow.com/questions/506105/how-can-i-check-if-a-single-
+     * character-appears-in-a-string
+     */
+
+    String greet = "Hello Arijit, welcome to Java coding bootcamp !";
+    boolean bool = greet.contains("Hello"); // true
+    bool = greet.contains("hello"); // false
+    System.out.println(bool);
+  }
+
+  public static void endsWith() {
+
   }
 
   public static void main(String[] args) {
     // charAt();
     // compareTo();
     // concat();
+    // contains();
   }
 
 }

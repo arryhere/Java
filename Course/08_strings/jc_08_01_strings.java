@@ -22,7 +22,12 @@ public class jc_08_01_strings {
     System.out.print("Please enter your name: ");
     String name = sc.nextLine();
 
-    System.out.print( greet1 + name.trim() + greet2);
+    System.out.println( greet1 + name.trim() + greet2);
+
+    // char array to string
+    char[] char_array = {'E', 'A', 'R', 'T', 'H'};
+    String str = new String(char_array);
+    System.out.println(str);
 
     sc.close();
   }
